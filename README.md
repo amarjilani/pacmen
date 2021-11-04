@@ -1,15 +1,15 @@
 # PacMen Factory
 
-##Description
+## Description
 This project creates a page with animated PacMen objects generated at random positions. When the game starts, the PacMen begin to move at varying velocities, bouncing off all the walls. 
 
-##How to run
+## How to run
 You can run this progject by visiting https://amarjilani.github.io/pacmen and pressing the buttons at the top left of the screen. Simply click on the 'Add PacMan' button to generate the PacMen, and then click 'Start Game' to have them move!
 
-##Future Improvements 
+## Future Improvements 
 Some possible future developments could be to add further customization to the characters, such as colour and size. Furthermore, the PacMen could move with increasing velocity the more walls they bounce off of, and could potentially 'pop' when hitting the wall at a certain velocity. 
 
-##Licencing 
+## Licencing 
 MIT License
 
 Copyright (c) 2020 John Williams
